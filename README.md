@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=999&color=247EA6&width=435&lines=Hi+I'm+Hendra+Maulana!;Informatics+Engineering+Student;Web+Dev+%26+Data+Analyts)](https://git.io/typing-svg)<hr>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=999&color=247EA6&width=435&lines=Hi+I'm+Hendra+Maulana!;Informatics+Engineering+Student;Web+Dev+%26+Data+Analyts)](https://git.io/typing-svg)
 
 ---
 ## 🌐 Socials:
