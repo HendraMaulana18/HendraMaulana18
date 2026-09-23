@@ -1,7 +1,4 @@
-<!-- HEADER TYPING EFFECT -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00599C&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hendra Maulana!+%F0%9F%91%8B;Informatics+Engineering+Student+%F0%9F%92%BB;Web+Dev+%26+Data Analyts+💻" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=999&color=247EA6&width=435&lines=Hi+I'm+Hendra+Maulana!;Informatics+Engineering+Student;Web+Dev+%26+Data+Analyts)](https://git.io/typing-svg)<hr>
 
 ---
 ## 🌐 Socials:
