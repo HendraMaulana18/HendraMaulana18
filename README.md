@@ -21,9 +21,14 @@ I enjoy learning new technologies and building useful projects.
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=HendraMaulana18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub profile stats" />
+<hr>
+
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HendraMaulana18&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-  <br />
+<hr>
+ 
   <img src="https://streak-stats.demolab.com?user=HendraMaulana18&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
+
