@@ -1,10 +1,27 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=999&color=247EA6&width=650&lines=Hi%2C+I'm+Hendra+Maulana!;Informatics+Engineering+Student;Web+Developer+%26+Software+Engineer)](https://git.io/typing-svg)
-<hr>
+<div align="center">
+  <h1>Hi, I'm Hendra Maulana 👋</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=247EA6&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Web+Developer+%26+Software+Engineer;Always+learning+and+building" alt="Informatics Engineering Student, Web Developer and Software Engineer" />
+  <br />
+  <img src="https://img.shields.io/badge/FOCUS-Web%20Development-247EA6?style=for-the-badge" alt="Focus: Web Development" />
+  <img src="https://img.shields.io/badge/BASED-Indonesia-2E8B57?style=for-the-badge" alt="Based in Indonesia" />
+</div>
 
-## 👋 About Me
+<hr />
 
-I'm an Informatics Engineering student interested in web development and software engineering.  
-I enjoy learning new technologies and building useful projects.
+<h2 align="center">✨ About Me</h2>
+
+<div align="center">
+  <p>
+    I'm an <strong>Informatics Engineering student</strong> with a passion for
+    <strong>web development</strong> and <strong>software engineering</strong>.
+  </p>
+  <p>
+    I enjoy exploring new technologies and turning what I learn into useful projects.
+  </p>
+  <p>
+    🌱 Always learning &nbsp; • &nbsp; 💻 Creating useful projects &nbsp; • &nbsp; 🚀 Growing as a developer
+  </p>
+</div>
 
 ## 🌐 Connect with Me
 
@@ -31,4 +48,3 @@ I enjoy learning new technologies and building useful projects.
  
   <img src="https://streak-stats.demolab.com?user=HendraMaulana18&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
-
