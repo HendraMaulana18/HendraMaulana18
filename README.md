@@ -1,12 +1,12 @@
 <div align="center">
   <h1>Hi, I'm Hendra Maulana 👋</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=247EA6&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Web+Developer+%26+Software+Engineer;Always+learning+and+building" alt="Informatics Engineering Student, Web Developer and Software Engineering" />
-  <br />
+  <br/>
   <img src="https://img.shields.io/badge/FOCUS-Web%20Development-247EA6?style=for-the-badge" alt="Focus: Web Development" />
   <img src="https://img.shields.io/badge/BASED-Indonesia-2E8B57?style=for-the-badge" alt="Based in Indonesia" />
 </div>
 
-<hr />
+<hr/>
 
 <h2 align="center">✨ About Me</h2>
 
