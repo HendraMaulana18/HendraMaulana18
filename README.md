@@ -1,50 +1,59 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:247EA6,100:58A6FF&height=160&section=header" width="100%" alt="" />
+</div>
+
+<div align="center">
   <h1>Hi, I'm Hendra Maulana 👋</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=247EA6&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Web+Developer+%26+Software+Engineer;Always+learning+and+building" alt="Informatics Engineering Student, Web Developer and Software Engineering" />
-  <br/>
-  <img src="https://img.shields.io/badge/FOCUS-Web%20Development-247EA6?style=for-the-badge" alt="Focus: Web Development" />
-  <img src="https://img.shields.io/badge/BASED-Indonesia-2E8B57?style=for-the-badge" alt="Based in Indonesia" />
-</div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=247EA6&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Web+Developer;Software+Engineer;Learning+by+building+projects" alt="Informatics Engineering Student,Web Developer, Software Engineer, Learning by building projects" />
 
-<hr/>
-
-<h2 align="center">✨ About Me</h2>
-
-<div align="center">
   <p>
-    I'm an <strong>Informatics Engineering student</strong> with a passion for
-    <strong>web development</strong> and <strong>software engineering</strong>.
-  </p>
-  <p>
-    I enjoy exploring new technologies and turning what I learn into useful projects.
-  </p>
-  <p>
-    🌱 Always learning &nbsp; • &nbsp; 💻 Creating useful projects &nbsp; • &nbsp; 🚀 Growing as a developer
+    <img src="https://img.shields.io/badge/Focus-Web%20Development-247EA6?style=flat-square" alt="Focus: Web Development" />
+    <img src="https://img.shields.io/badge/Location-Indonesia-58A6FF?style=flat-square" alt="Location: Indonesia" />
   </p>
 </div>
 
-## 🌐 Connect with Me
+---
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/whenn25) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/hendraa.mln) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hendraa.mln7f9@gmail.com)
+## About me
 
-## 💻 Tech Stack
+I'm an Informatics Engineering student interested in web development and practical software. I enjoy learning new tools, turning ideas into projects, and refining my work as I gain experience.
 
-**Languages:**  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## Technologies
 
-**Tools & Other:**  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+**Languages & web**<br />
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-## 📊 GitHub Stats
+**Database & tools**<br />
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
+## GitHub at a glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HendraMaulana18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub profile stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HendraMaulana18&show_icons=true&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats&bg_color=0D1117&title_color=247EA6&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub profile statistics" />
 <hr>
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HendraMaulana18&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HendraMaulana18&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 <hr>
  
-  <img src="https://streak-stats.demolab.com?user=HendraMaulana18&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=HendraMaulana18&hide_border=true&background=0D1117&ring=247EA6&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
+</div>
+
+## Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hendraa.mln7f9@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hendraa.mln)
+[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/whenn25)
+
 </div>
