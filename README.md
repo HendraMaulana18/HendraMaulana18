@@ -14,41 +14,36 @@
 
 ---
 
-## About me
+<h2 align="center">About me</h2>
 
 I'm an Informatics Engineering student interested in web development and practical software. I enjoy learning new tools, turning ideas into projects, and refining my work as I gain experience.
 
-## Technologies
+<h2>Technologies</h2>
 
-**Languages & web**<br />
+<p>Languages &amp; web</p>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-**Database & tools**<br />
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-## GitHub at a glance
+
+<p>Database &amp; tools</p>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+
+<h2 align="center">GitHub at a glance</h2>
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=HendraMaulana18&show_icons=true&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats&bg_color=0D1117&title_color=247EA6&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub profile statistics" />
 <hr>
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HendraMaulana18&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 <hr>
- 
+
   <br />
   <img src="https://streak-stats.demolab.com?user=HendraMaulana18&hide_border=true&background=0D1117&ring=247EA6&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
 </div>
 
-## Connect
+<h2 align="center">Connect</h2>
 
 <div align="center">
 
