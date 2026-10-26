@@ -47,7 +47,7 @@
 ---
 
 <div align="center">
-  <h2 align="center">GitHub at a Glance</h2>
+  <h2 align="center">GitHub Progres</h2>
 
   <p>
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=HendraMaulana18&show_icons=true&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats&bg_color=0D1117&title_color=247EA6&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub profile statistics" />
