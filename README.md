@@ -18,9 +18,7 @@
   <h2 align="center">About Me</h2>
   <p>I'm an Informatics Engineering student interested in web development and practical software. I enjoy learning new tools, turning ideas into projects, and refining my work as I gain experience.</p>
 
-
 ---
-
 
   <h2 align="center">Technologies</h2>
   <p><strong>Languages &amp; Web</strong></p>
